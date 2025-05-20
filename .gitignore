@@ -1,0 +1,49 @@
+# 가상환경
+venv/
+env/
+.env/
+
+# Python 캐시 파일
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 배포 관련
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyCharm 관련
+.idea/
+
+# VS Code 관련
+.vscode/
+
+# macOS 관련
+.DS_Store
+
+# 로그 파일
+*.log
+
+# 환경 설정 파일
+.env
+.env.local
+
+# 모델 체크포인트 (필요시)
+# *.pth
+# *.pt
+# *.h5
